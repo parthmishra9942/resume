@@ -21,7 +21,7 @@ Welcome to my official résumé repository. Here you can find my latest, ATS-opt
 ## 👨‍💻 Quick Summary
 
 - **Education:** B.Tech in Computer Science & Engineering (AI/ML), VIT Bhopal University (Batch 2023–2027)
-- **Academic Standing:** CGPA: **8.67 / 10.0**
+- **Academic Standing:** CGPA: **8.70 / 10.0**
 - **Certifications:** 
   - **Oracle Certified Foundations Associate — Agentic AI** (Oracle University, Sept 2026)
   - **CS50's Introduction to Artificial Intelligence with Python** (Harvard University, Oct 2026)
